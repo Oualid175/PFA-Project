@@ -1,0 +1,42 @@
+
+	home-page.css	// design de la page d'accueil
+	style.css	// css
+	login.css	// design de la page d'inscrition
+	login.php	// html de la page d'inscrition
+	login1.php	// php de la page d'inscrition
+	logout.php	// php de logout
+	validation.php	// php de la page authentification
+	validation1.php	// design de la page authentification
+	order.php	// facture by TCPDF
+	fakehome.php    // end panier session 
+
+USER:
+	home.php        // page d'accueil user
+	books.php	// catégorie
+	headphones.php	// catégorie
+	keyboard.php	// catégorie
+	laptop.php	// catégorie
+	mouse.php	// catégorie
+	phone.php	// catégorie	
+	smartwatch.php	// catégorie
+	sell.php	// lister des produit
+	cart2.php	// panier
+
+ADMIN:
+	
+	admin.php	// page d'accueil admin
+	booksAD.php	// catégorie
+	smartwatchAD.php// catégorie
+	headphonesAD.php// catégorie
+	keyboardAD.php	// catégorie	
+	laptopAD.php	// catégorie
+	mouseAD.php	// catégorie
+	phoneAD.php	// catégorie
+	sellAD.php	// lister des produit
+	cart2AD.php	// panier
+
+
+
+by Adnane Ben Osmane
+
+	
